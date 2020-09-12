@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tactictoe</string>
+    <string name="xturn">Player X Turn</string>
+    <string name="reset">RESET</string>
+</resources>
